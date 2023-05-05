@@ -134,6 +134,8 @@ public class Sample {
 		}
 		return mode;
 	}
+	
+	
 //	@GetMapping(value="/getPr")
 //	public Car getPrice1(@RequestBody List<Car> c) {
 //	Car car = c.stream().max(Comparator.comparing(Car :: getPrice)).get();
